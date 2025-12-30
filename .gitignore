@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+bot.log
+venv/
+env/
+.vscode/
+.env
+venv/
+__pycache__/
+*.pyc
+bot.log
